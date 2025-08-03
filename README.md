@@ -24,6 +24,10 @@ pip install -r requirements.txt
    ```
 3. Use 'a' and 'd' to cycle through backgrounds, and 'q' to quit.
 
+## Customizing Background Images
+
+To use your own backgrounds, simply add or replace image files in the `images` folder. Supported formats include PNG and JPG. The app will automatically load all images in that folder and let you cycle through them with the 'a' and 'd' keys while running.
+
 ## Sample Output
 
 Sample output:
